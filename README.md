@@ -1,16 +1,8 @@
 # clubhouse
 
-A new Flutter project.
+### Screenshots.
 
-## Getting Started
+<img src="https://user-images.githubusercontent.com/85505451/169258269-eaeab951-0c3e-441a-8ec5-e960f8aad47e.png" width="350">  <img src="https://user-images.githubusercontent.com/85505451/169258280-6e16f583-3935-4855-a736-75d199b82911.png" width="350">
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<!-- ![1](https://user-images.githubusercontent.com/85505451/169258269-eaeab951-0c3e-441a-8ec5-e960f8aad47e.png) -->
+<!-- ![2](https://user-images.githubusercontent.com/85505451/169258280-6e16f583-3935-4855-a736-75d199b82911.png) -->

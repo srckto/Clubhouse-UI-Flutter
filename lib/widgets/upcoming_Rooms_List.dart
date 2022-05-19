@@ -1,6 +1,6 @@
-import 'package:clubhouse/config.dart/palette.dart';
 import 'package:flutter/material.dart';
 
+import '../config/palette.dart';
 import '../data.dart';
 
 class UpcomingRoomsList extends StatelessWidget {

@@ -1,8 +1,8 @@
-import 'package:clubhouse/config.dart/palette.dart';
 import 'package:clubhouse/screens/room_screen.dart';
 import 'package:clubhouse/widgets/user_profile_image.dart';
 import 'package:flutter/material.dart';
 
+import '../config/palette.dart';
 import '../data.dart';
 
 class RoomCard extends StatelessWidget {
